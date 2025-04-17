@@ -1,5 +1,3 @@
-# bandgap-ML-excavate2025
-Machine Learning project for COMPOSIT EXCAVATE 2025 - Predicting band gap of perovskite materials using XGBoost and CatBoost
 # 🧪 Perovskite Band Gap Prediction (EXCAVATE 2025)
 
 This project was developed as part of the **EXCAVATE 2025** competition, where the objective was to classify and predict the **band gap** of **perovskite materials** using advanced machine learning techniques. The goal was to identify whether a material is an insulator and accurately estimate its band gap.
